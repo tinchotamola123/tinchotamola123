@@ -2,10 +2,19 @@
 # **HOLA SOY MARTIN** 👋
 ## Sobre mi.
 
-- Soy un apasionado por la tecnologia...
-- Empece en el mundo del Frontend y ahora vamos por el camino a ser un desarrollador Full stack...
+- Soy un apasionado por la tecnologia.
+- Empece en el mundo del Frontend y ahora vamos por el camino a ser un desarrollador Full stack.
+- Realice los siguientes cursos en Coder House:
+-   Curso de Desarrollo Web (HTML , CSS).
+-   Curso de Java Script.
+-   Curso de React.
+-   Curso de Python + Django.
   
 <br>  
+
+#### | [Linkedin - Martin Tamola](https://www.linkedin.com/in/martin-tamola/) |
+
+#### | [Portafolio - Martin Tamola](https://tinchotamola.pythonanywhere.com/) |
 
 <h2> 🚀 &nbsp;Tecnologías que manejo</h2>
 <p align="left">
@@ -27,8 +36,6 @@
 </p>
 <br>
 
-#### | [Linkedin - Martin Tamola](https://www.linkedin.com/in/martin-tamola/) |
 
-#### | [Portafolio - Martin Tamola](https://tinchotamola.pythonanywhere.com/) |
 
  
