@@ -26,7 +26,7 @@
   
 </p>
 <br>
-## | [Portafolio - Martin Tamola]([https://www.linkedin.com/in/martin-tamola/](https://tinchotamola.pythonanywhere.com/)) |
+#### | [Portafolio - Martin Tamola]([https://www.linkedin.com/in/martin-tamola/](https://tinchotamola.pythonanywhere.com/)) |
 <br>
-## | [Linkedin - Martin Tamola](https://www.linkedin.com/in/martin-tamola/) | 
+#### | [Linkedin - Martin Tamola](https://www.linkedin.com/in/martin-tamola/) | 
  
