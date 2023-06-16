@@ -27,6 +27,6 @@
 </p>
 <br>
 
-#### | [Martin Tamola](https://www.linkedin.com/in/martin-tamola/) |
+#### | [Linkedin - Martin Tamola](https://www.linkedin.com/in/martin-tamola/) |
 
  
