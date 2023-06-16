@@ -1,8 +1,7 @@
 
 # **HOLA SOY MARTIN** 👋
-## Comentario.
+## Sobre mi.
 
-##SOBRE MI
 - Soy un apasionado por la tecnologia...
 - Empece en el mundo del Frontend y ahora vamos por el camino a ser un desarrollador Full stack...
   
@@ -27,5 +26,7 @@
   
 </p>
 <br>
-
-#### | [Martin Tamola](https://www.linkedin.com/in/martin-tamola/) | 
+## | [Portafolio - Martin Tamola]([https://www.linkedin.com/in/martin-tamola/](https://tinchotamola.pythonanywhere.com/)) |
+<br>
+## | [Linkedin - Martin Tamola](https://www.linkedin.com/in/martin-tamola/) | 
+ 
