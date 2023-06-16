@@ -1,6 +1,6 @@
 
 # **HOLA SOY MARTIN** 👋
-## Sobre mi.
+## Sobre mi.🤓
 
 - # Soy un apasionado por la tecnologia.
 - # Empece en el mundo del Frontend y ahora vamos por el camino a ser un desarrollador Full stack.
